@@ -1,4 +1,0 @@
-/*
-    trying to figure out how to separate all the screens like 
-    this while maintaining navigation functionality
-*/
